@@ -13,4 +13,9 @@ intorduction to data preproccessing
 ![image](https://github.com/mse056/PreProccessing/assets/77380435/9efbe2fb-3fc8-4f83-8c4e-28166257c4c1)
 
 ### kendall's tau b :
+The following links illustrates how to calculate and use Kendall’s Tau rank correlation coefficient.
+https://www.statisticshowto.com/kendalls-tau/
 https://www.statology.org/kendalls-tau/
+
+### homoscedasticity and heteroscedasticity :
+![image](https://github.com/mse056/PreProccessing/assets/77380435/3f433a01-851e-4866-9a79-5ab9d8d6baf7)
