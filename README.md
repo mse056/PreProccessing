@@ -17,5 +17,9 @@ The following links illustrates how to calculate and use Kendall’s Tau rank co
 https://www.statisticshowto.com/kendalls-tau/                        
 https://www.statology.org/kendalls-tau/
 
-### homoscedasticity and heteroscedasticity :
+### homoscedasticity and heteroscedasticity:
 ![image](https://github.com/mse056/PreProccessing/assets/77380435/3f433a01-851e-4866-9a79-5ab9d8d6baf7)
+
+## EDA :
+![image](https://github.com/mse056/PreProccessing/assets/77380435/d7724aea-ba3a-4565-bc26-e945b54bc48a)
+![image](https://github.com/mse056/PreProccessing/assets/77380435/fe67f730-c58e-40f9-9375-cd298195213d)
